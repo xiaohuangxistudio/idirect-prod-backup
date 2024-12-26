@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as n,r as s,o as a}from"./index-Cm55Gr8Q.js";const c={name:"NotFound"},r={class:"not-found"};function _(p,d,m,i,f,l){const e=s("van-empty");return a(),t("div",r,[n(e,{image:"network",description:"页面不见了"})])}const v=o(c,[["render",_],["__scopeId","data-v-94ce05b6"]]);export{v as default};

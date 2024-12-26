@@ -1,0 +1,1 @@
+import{_ as r,c as o,b as t,o as a}from"./index-Cm55Gr8Q.js";const n={name:"DriverPage"};function s(c,e,i,l,p,_){return a(),o("div",null,e[0]||(e[0]=[t("h1",null,"Driver Page",-1)]))}const f=r(n,[["render",s]]);export{f as default};
